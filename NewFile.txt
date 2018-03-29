@@ -1,1 +1,3 @@
 I am learning Git on my own, using Udemy.
+
+This course is very useful but we would always need practice to learn the things.
